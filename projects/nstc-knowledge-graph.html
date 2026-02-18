@@ -11,21 +11,48 @@
       <section class="panel">
         <p class="kicker">Project Detail</p>
         <h1 style="max-width: none; margin-bottom: 16px;">NSTC Research: AI + Knowledge Graph</h1>
+        <p class="evidence-meta" style="margin: 0 0 10px;">Project No. 113-2813-C-431-004-E</p>
         <p class="intro" style="margin-top: 0;">
-          This undergraduate research project explored how to build standard procedures for chronic
-          disease health-education knowledge graph construction using web scraping and large language
-          models.
+          The Chronic Disease Health-Education Knowledge Graph Construction System is a diabetes-focused
+          research project aimed at building a standardized and automatable workflow that transforms
+          scattered online chronic disease education information into a structured knowledge graph.
+          The system first collects public health-education data through web scraping, then applies
+          automated text recognition and large language models to extract entities (such as diseases,
+          symptoms, and treatment methods), relations, and attributes. The extracted results are
+          organized into a graph data structure that can be stored in Neo4j.
+        </p>
+        <p class="intro">
+          To improve reliability, the project uses prompt engineering and validation mechanisms to
+          reduce hallucination risk in large language model outputs, improving knowledge accuracy and
+          consistency. The final knowledge graph is integrated with Retrieval-Augmented Generation
+          (RAG) for health-education question answering, providing more reliable and contextual
+          responses and serving as a foundation for future chronic disease digital health and smart
+          healthcare applications.
         </p>
 
         <h2 style="margin-top: 22px;">Research Focus</h2>
         <div class="card-grid two-up">
           <article class="card">
-            <h3>Knowledge Graph Workflow</h3>
-            <p>Designed standardized steps for data collection, normalization, and graph structuring.</p>
+            <h3>Web Data Collection</h3>
+            <p>Collected public chronic disease health-education content from distributed web sources.</p>
           </article>
           <article class="card">
-            <h3>LLM-assisted Processing</h3>
-            <p>Used LLM support to improve information extraction and semantic mapping quality.</p>
+            <h3>Entity and Relation Extraction</h3>
+            <p>
+              Used automated text processing and LLMs to extract entities, attributes, and
+              relationships from unstructured content.
+            </p>
+          </article>
+          <article class="card">
+            <h3>Neo4j Graph Structuring</h3>
+            <p>Converted extraction outputs into a structured graph format for Neo4j storage and query.</p>
+          </article>
+          <article class="card">
+            <h3>RAG-based QA Integration</h3>
+            <p>
+              Combined the knowledge graph with RAG to support more reliable and contextual
+              health-education question answering.
+            </p>
           </article>
         </div>
 
@@ -44,6 +71,9 @@
         <div class="contact-actions">
           <a class="btn btn-solid" href="../assets/docs/nstc-final-report.pdf" target="_blank" rel="noreferrer">
             View Final Report (PDF)
+          </a>
+          <a class="btn btn-outline" href="../assets/docs/ciie-conference-presentation-proof.pdf" target="_blank" rel="noreferrer">
+            View Conference Proof
           </a>
           <a class="btn btn-outline" href="https://youtu.be/qP-ORW2lU6Y?si=RsENR0xhSp-gJNjG" target="_blank" rel="noreferrer">
             Watch Project Demo (YouTube)
