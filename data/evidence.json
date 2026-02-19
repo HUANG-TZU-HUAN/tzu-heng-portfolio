@@ -1,34 +1,10 @@
 [
   {
-    "category": "Certification",
-    "title": "Unity 3D Game Design Certificate",
+    "category": "Award",
+    "title": "Fo Guang University Book Award Certificate",
     "type": "Image",
-    "description": "Certificate of Completion: Designing 3D Animation Games Using Unity (Silicon Stone Education).",
-    "url": "assets/evidence/43c592750e850852.jpg",
-    "label": "Open Image"
-  },
-  {
-    "category": "Certification",
-    "title": "Python Language Certificate",
-    "type": "Image",
-    "description": "Certificate of Completion: Python Language Today (Silicon Stone Education).",
-    "url": "assets/evidence/fb3d20a1d983ac45.jpg",
-    "label": "Open Image"
-  },
-  {
-    "category": "Certification",
-    "title": "National Technician Certificate - Computer Software Application",
-    "type": "Image",
-    "description": "Official national technician certificate card.",
-    "url": "assets/evidence/71b3f83f52620725.jpg",
-    "label": "Open Image"
-  },
-  {
-    "category": "Certification",
-    "title": "National Technician Certificate - Industrial Electronics",
-    "type": "Image",
-    "description": "Official national technician certificate card.",
-    "url": "assets/evidence/1bc09b3351359ff2.jpg",
+    "description": "Book award certificate issued by Fo Guang University.",
+    "url": "assets/evidence/e75471bda0fc6856.jpg",
     "label": "Open Image"
   },
   {
@@ -41,10 +17,34 @@
   },
   {
     "category": "Certification",
+    "title": "National Technician Certificate - Computer Software Application",
+    "type": "Image",
+    "description": "Official national technician certificate card.",
+    "url": "assets/evidence/71b3f83f52620725.jpg",
+    "label": "Open Image"
+  },
+  {
+    "category": "Certification",
     "title": "National Technician Certificate - Heat Treatment",
     "type": "Image",
     "description": "Official national technician certificate card.",
     "url": "assets/evidence/07232f11a53b893d.jpg",
+    "label": "Open Image"
+  },
+  {
+    "category": "Certification",
+    "title": "National Technician Certificate - Industrial Electronics",
+    "type": "Image",
+    "description": "Official national technician certificate card.",
+    "url": "assets/evidence/1bc09b3351359ff2.jpg",
+    "label": "Open Image"
+  },
+  {
+    "category": "Certification",
+    "title": "Python Language Certificate",
+    "type": "Image",
+    "description": "Certificate of Completion: Python Language Today (Silicon Stone Education).",
+    "url": "assets/evidence/fb3d20a1d983ac45.jpg",
     "label": "Open Image"
   },
   {
@@ -56,27 +56,27 @@
     "label": "Open Image"
   },
   {
-    "category": "Training",
-    "title": "National Ilan University Course Completion Proof",
+    "category": "Certification",
+    "title": "Unity 3D Game Design Certificate",
     "type": "Image",
-    "description": "Course completion proof in precision agriculture and smart application training.",
-    "url": "assets/evidence/3ef5857a5c3221c8.jpg",
+    "description": "Certificate of Completion: Designing 3D Animation Games Using Unity (Silicon Stone Education).",
+    "url": "assets/evidence/43c592750e850852.jpg",
     "label": "Open Image"
   },
   {
-    "category": "Award",
-    "title": "Fo Guang University Book Award Certificate",
-    "type": "Image",
-    "description": "Book award certificate issued by Fo Guang University.",
-    "url": "assets/evidence/e75471bda0fc6856.jpg",
-    "label": "Open Image"
+    "category": "Document",
+    "title": "Academic Transcript (Fo Guang University)",
+    "type": "PDF",
+    "description": "Unofficial transcript of academic record.",
+    "url": "assets/docs/academic-transcript-fgu.pdf",
+    "label": "Open PDF"
   },
   {
-    "category": "Service",
-    "title": "Fo Guang University Staff Service Certificate",
+    "category": "Media",
+    "title": "Overseas Internship News Coverage",
     "type": "Image",
-    "description": "Service certificate for student association training camp support.",
-    "url": "assets/evidence/fabe260af40b02d7.jpg",
+    "description": "Media coverage of overseas internship and exchange activity.",
+    "url": "assets/evidence/1942157cd834577c.jpg",
     "label": "Open Image"
   },
   {
@@ -88,11 +88,19 @@
     "label": "Open Image"
   },
   {
-    "category": "Media",
-    "title": "Overseas Internship News Coverage",
+    "category": "Service",
+    "title": "Fo Guang University Staff Service Certificate",
     "type": "Image",
-    "description": "Media coverage of overseas internship and exchange activity.",
-    "url": "assets/evidence/1942157cd834577c.jpg",
+    "description": "Service certificate for student association training camp support.",
+    "url": "assets/evidence/fabe260af40b02d7.jpg",
+    "label": "Open Image"
+  },
+  {
+    "category": "Training",
+    "title": "National Ilan University Course Completion Proof",
+    "type": "Image",
+    "description": "Course completion proof in precision agriculture and smart application training.",
+    "url": "assets/evidence/3ef5857a5c3221c8.jpg",
     "label": "Open Image"
   }
 ]
