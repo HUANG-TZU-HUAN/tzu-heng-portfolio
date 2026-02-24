@@ -26,6 +26,10 @@ body {
   overflow-x: clip;
 }
 
+html {
+  scroll-padding-top: 90px;
+}
+
 img,
 video {
   max-width: 100%;
@@ -256,6 +260,12 @@ h1 {
   overflow-wrap: anywhere;
 }
 
+.panel[id],
+.hero[id],
+main[id] {
+  scroll-margin-top: 90px;
+}
+
 h2 {
   font-size: clamp(1.5rem, 2.8vw, 2.1rem);
   margin-bottom: 16px;
@@ -467,6 +477,10 @@ h2 {
     gap: 10px;
   }
 
+  html {
+    scroll-padding-top: 120px;
+  }
+
   .menu {
     width: 100%;
     gap: 10px 14px;
@@ -492,6 +506,12 @@ h2 {
 
   h1 {
     max-width: none;
+  }
+
+  .panel[id],
+  .hero[id],
+  main[id] {
+    scroll-margin-top: 120px;
   }
 
   /* Mobile Safari can still create horizontal scroll with fixed blurred background layers. */
