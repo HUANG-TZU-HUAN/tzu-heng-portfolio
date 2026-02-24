@@ -20,7 +20,10 @@ html,
 body {
   margin: 0;
   padding: 0;
+  width: 100%;
+  max-width: 100%;
   overflow-x: hidden;
+  overflow-x: clip;
 }
 
 img,
@@ -39,6 +42,7 @@ body {
     var(--bg);
   min-height: 100vh;
   line-height: 1.6;
+  position: relative;
 }
 
 .aurora {
@@ -108,6 +112,7 @@ body {
 main {
   width: min(1080px, calc(100% - 40px));
   margin: 28px auto 52px;
+  max-width: 100%;
 }
 
 .hero {
@@ -452,6 +457,11 @@ h2 {
     gap: 10px;
   }
 
+  .menu {
+    width: 100%;
+    gap: 10px 14px;
+  }
+
   .two-up,
   .three-up,
   .highlights {
@@ -472,5 +482,10 @@ h2 {
 
   h1 {
     max-width: none;
+  }
+
+  /* Mobile Safari can still create horizontal scroll with fixed blurred background layers. */
+  .aurora {
+    display: none;
   }
 }
