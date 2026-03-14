@@ -97,9 +97,9 @@
   },
   {
     "category": "XR",
-    "title": "CAD Modeling Workflow Screen Recording",
+    "title": "Unity XR/AR Screen Recording",
     "type": "Video",
-    "description": "Compressed screen-recording of CAD modeling workflow and operation process.",
+    "description": "Compressed screen recording showing Unity-based XR/AR coursework workflow.",
     "url": "assets/projects/xr-3d-printing/cad-modeling-screen-demo.mp4",
     "label": "Open Video"
   },
