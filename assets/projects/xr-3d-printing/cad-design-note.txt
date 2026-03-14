@@ -1,0 +1,5 @@
+CAD modeling note:
+- Software: Autodesk Inventor.
+- Basic workflow: sketch profile -> revolve/extrude -> add cut/features -> verify dimensions.
+- Model intent: build a printable cylindrical part and validate geometry before slicing.
+- This note is paired with the CAD screenshot shown on the 3D Printing + CAD page.

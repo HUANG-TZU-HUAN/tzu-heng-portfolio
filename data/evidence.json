@@ -72,44 +72,20 @@
     "label": "Open PDF"
   },
   {
-    "category": "Application",
-    "title": "CV for 2026 IIS Summer Internship",
-    "type": "PDF",
-    "description": "Updated CV and autobiography version prepared for 2026 IIS internship application.",
-    "url": "assets/docs/cv-2026-iis-gino-huang.pdf",
-    "label": "Open PDF"
-  },
-  {
-    "category": "Application",
-    "title": "Motivation Letter for 2026 IIS Summer Internship",
-    "type": "PDF",
-    "description": "Motivation letter describing lab interests in BCI, XR, physiological signals, and trustworthy AI.",
-    "url": "assets/docs/motivation-letter-2026-iis-gino-huang.pdf",
-    "label": "Open PDF"
-  },
-  {
     "category": "XR",
-    "title": "XR/AR Coursework Demo Video",
-    "type": "Video",
-    "description": "Recorded AR coursework demo showing Unity-based XR interaction practice.",
-    "url": "assets/projects/xr-3d-printing/xr-ar-course-demo.mp4",
-    "label": "Open Video"
-  },
-  {
-    "category": "XR",
-    "title": "Unity XR/AR Screen Recording",
-    "type": "Video",
-    "description": "Compressed screen recording showing Unity-based XR/AR coursework workflow.",
-    "url": "assets/projects/xr-3d-printing/cad-modeling-screen-demo.mp4",
-    "label": "Open Video"
+    "title": "XR/AR Coursework Notes and Demo",
+    "type": "Page",
+    "description": "XR coursework page with Unity screen recording and implementation notes.",
+    "url": "projects/xr-unity-screen.html",
+    "label": "Open Page"
   },
   {
     "category": "3D Fabrication",
-    "title": "3D Printing Practice Video",
-    "type": "Video",
-    "description": "High-school era 3D printing practice record for physical prototyping.",
-    "url": "assets/projects/xr-3d-printing/3d-printing-demo.mp4",
-    "label": "Open Video"
+    "title": "3D Printing + CAD Record",
+    "type": "Page",
+    "description": "3D printing record page with CAD drawing reference and print result notes.",
+    "url": "projects/3d-printing-cad.html",
+    "label": "Open Page"
   },
   {
     "category": "Media",
