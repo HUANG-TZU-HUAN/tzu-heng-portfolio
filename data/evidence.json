@@ -72,6 +72,46 @@
     "label": "Open PDF"
   },
   {
+    "category": "Application",
+    "title": "CV for 2026 IIS Summer Internship",
+    "type": "PDF",
+    "description": "Updated CV and autobiography version prepared for 2026 IIS internship application.",
+    "url": "assets/docs/cv-2026-iis-gino-huang.pdf",
+    "label": "Open PDF"
+  },
+  {
+    "category": "Application",
+    "title": "Motivation Letter for 2026 IIS Summer Internship",
+    "type": "PDF",
+    "description": "Motivation letter describing lab interests in BCI, XR, physiological signals, and trustworthy AI.",
+    "url": "assets/docs/motivation-letter-2026-iis-gino-huang.pdf",
+    "label": "Open PDF"
+  },
+  {
+    "category": "XR",
+    "title": "XR/AR Coursework Demo Video",
+    "type": "Video",
+    "description": "Recorded AR coursework demo showing Unity-based XR interaction practice.",
+    "url": "assets/projects/xr-3d-printing/xr-ar-course-demo.mp4",
+    "label": "Open Video"
+  },
+  {
+    "category": "XR",
+    "title": "CAD Modeling Workflow Screen Recording",
+    "type": "Video",
+    "description": "Compressed screen-recording of CAD modeling workflow and operation process.",
+    "url": "assets/projects/xr-3d-printing/cad-modeling-screen-demo.mp4",
+    "label": "Open Video"
+  },
+  {
+    "category": "3D Fabrication",
+    "title": "3D Printing Practice Video",
+    "type": "Video",
+    "description": "High-school era 3D printing practice record for physical prototyping.",
+    "url": "assets/projects/xr-3d-printing/3d-printing-demo.mp4",
+    "label": "Open Video"
+  },
+  {
     "category": "Media",
     "title": "Overseas Internship News Coverage",
     "type": "Image",
